@@ -1,4 +1,4 @@
-TEST BATCH;INSTANCE;NUMBER CUSTOMERS;GAMMAT;DEVIATIONT;RUNTIME;RESULT;RESULT DESCRIPTION;INCUMBENT;BEST BOUND;MIP ABSOLUTE GAP;MIP RELATIVE GAP
+VERSION;INSTANCE;NUMBER CUSTOMERS;GAMMAT;DEVIATIONT;RUNTIME;RESULT;RESULT DESCRIPTION;INCUMBENT;BEST BOUND;MIP ABSOLUTE GAP;MIP RELATIVE GAP
 A;C101;25;0;0;26.52;OPTIMAL;Model was solved to optimality (subject to tolerances), and an optimal solution is available.;303.2;303.2;5.68434E-14;0
 A;C101;25;1;0.1;79.36;OPTIMAL;Model was solved to optimality (subject to tolerances), and an optimal solution is available.;303.2;303.2;0;0
 A;C101;25;1;0.25;90.39;OPTIMAL;Model was solved to optimality (subject to tolerances), and an optimal solution is available.;303.2;303.2;5.68434E-14;0
